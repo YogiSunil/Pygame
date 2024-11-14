@@ -1,0 +1,23 @@
+# Ignore Python bytecode
+*.pyc
+
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Pygame temporary files and directories
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Ignore images and sounds (optional, if you don't want to track them)
+images/
+sounds/
+
+# Ignore system files (for macOS and Windows)
+.DS_Store
+Thumbs.db
